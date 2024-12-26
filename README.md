@@ -41,6 +41,26 @@ year = {2025}
 
 ## Medical Crash Cart Robot Tutorial Steps
 
-# Step 1: Set up micro SD card (12 minutes)
-
 ### Step 1: Set up micro SD card (12 minutes)
+### Step 2: Attach the LED strip to the cart (10 minutes)
+### Step 3: Connect Electronics (10 minutes)
+### Step 4: Boot the Raspberry Pi (12 minutes)
+### Step 5: Download necessary files (6 minutes)
+### Step 6: Download Robot Operating System 2 (55 min)
+### Step 7: Install necessary tools (6 min)
+### Step 8: Test and edit light code for compatibility (25 minutes)
+### Step 9: Connect the Bluetooth speaker (1 minute)
+### Step 10: Test the alert module (1 minute)
+### Step 11: Test the dialogue module (1 minute)
+
+11.1 Run the following:
+```
+cd robot_communication_ws
+source install/setup.bash
+ros2 run dialogue_pkg dialogue_node
+```
+
+11.2 Click the buttons, and you should hear the robot’s dialogue.
+
+## Congratulations! You are now the proud owner of a robotic crash cart.
+
