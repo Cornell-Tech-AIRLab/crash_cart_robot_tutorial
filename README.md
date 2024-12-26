@@ -47,6 +47,26 @@ year = {2025}
 
 ## Materials and Supplies
 
+The parts list includes required supplies, price, quantity, and a link to a recommended source. You likely already own most items. The total cost of the supplies is $412.
+
+The battery pack is optional; two wall outlets serves as an alternative 
+
+
+| Item                                     | Price         | Quantity      | URL           |
+| ---------------------------------------- | ------------- | ------------- | ------------- |
+| Raspberry Pi 4  (At least 4 GB)          | $55.00        | 1             | [Amazon](https://www.adafruit.com/product/4296)  |
+| Individually addressable LED light strip | $17.99        | 1             | Content Cell  |
+| Keyboard (Connects to USB A)             | $2.00         | 1             | Content Cell  |
+| Mouse (Connects to USB A)                | $2.71         | 1             | Content Cell  |
+| Monitor (With either a VGA or HDMI port) | $25.25        | 1             | Content Cell  |
+| Bluetooth speaker                        | $15.99        | 1             | Content Cell  |
+| Male to female jumper wires              | $6.99         | 1             | Content Cell  |
+| Micro USB to HDMI or VGA                 | $7.99         | 1             | Content Cell  |
+| USB C to power                           | $12.99        | 1             | Content Cell  |
+| Micro SD Card (At least 32 GB)           | $9.17         | 1             | Content Cell  |
+| SD to USB adapter                        | $5.99         | 1             | Content Cell  |
+| Portable Power Station (optional)        | $249.99       | 1             | Content Cell  |
+
 ## Medical Crash Cart Robot Tutorial Steps
 
 ### Step 1: Set up micro SD card (12 minutes)
