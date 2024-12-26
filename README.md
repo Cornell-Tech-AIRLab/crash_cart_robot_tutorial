@@ -2,6 +2,9 @@
 
 Crash Cart Robot Tutorial 
 
+<p align="center"> 
+<img src="./images/airlablogo.png" width="50%"> 
+
 This tutorial provides step-by-step instructions to build a low-cost cart robot with multimodal feedback capabilities using speech, drawer lights, and alerts to indicate the location of relevant supplies and task reminders.
 
 See the Tutorial on [YouTube](https://www.youtube.com/watch?v=EV-0HwNPJiY).
@@ -16,6 +19,11 @@ Taylor, A., Tanjim, T., Sack, M., Hirsch, M., Cheng, K., Ching, K., St. George, 
 
 </i> 
 </p>
+
+## System Requirements
+- Ubuntu Version???
+- Python Version???
+- Robot Operating System 2 (Distribution ???)
 
 Contents: 
 - [Introduction](#introduction) 
@@ -317,3 +325,22 @@ ros2 run dialogue_pkg dialogue_node
 
 ## Congratulations! You are now the proud owner of a robotic crash cart.
 
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+Fork the repo and create a pull request to improve the tutorial. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+- Fork the Project
+- Create your Feature Branch (git checkout -b feature/AmazingFeature)
+- Commit your Changes (git commit -m 'Add some AmazingFeature')
+- Push to the Branch (git push origin feature/AmazingFeature)
+- Open a Pull Request
+
+
+## Further Issues and questions ❓ 
+
+If you have issues or questions, don't hesitate to contact:
+
+Anaiya Z. Badi (anaiya.badi@gmail.com)
+Tauhid Tanjim (tt485@cornell.edu)
+Angelique M. Taylor (amt@cornell.edu)
