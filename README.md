@@ -3,7 +3,7 @@
 Crash Cart Robot Tutorial 
 
 <p align="center"> 
-<img src="./images/airlablogo.png" width="50%"> 
+<img src="./images/airlab_logo.png" width="50%"> 
 
 This tutorial provides step-by-step instructions to build a low-cost cart robot with multimodal feedback capabilities using speech, drawer lights, and alerts to indicate the location of relevant supplies and task reminders.
 
