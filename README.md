@@ -20,9 +20,7 @@ Taylor, A., Tanjim, T., Sack, M., Hirsch, M., Cheng, K., Ching, K., St. George, 
 Contents: 
 - [Introduction](#introduction) 
 - [Materials and Supplies](#materials_supplies) 
-- [Installation](#installation) 
-- [Code Structure Overview](#code_structure_overview) 
-- [Usage](#usage) 
+- [Medical Crash Cart Robot Tutorial Steps](#medical_crash_cart_robot_tutorial_steps) 
 
 ## Introduction
 
@@ -40,3 +38,9 @@ year = {2025}
 ```
 
 ## Materials and Supplies
+
+## Medical Crash Cart Robot Tutorial Steps
+
+# Step 1: Set up micro SD card (12 minutes)
+
+### Step 1: Set up micro SD card (12 minutes)
