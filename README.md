@@ -50,10 +50,25 @@ year = {2025}
 ### Step 7: Install necessary tools (6 min)
 ### Step 8: Test and edit light code for compatibility (25 minutes)
 ### Step 9: Connect the Bluetooth speaker (1 minute)
+
+9.1 Make sure your speaker is turned on and in range.
+
+9.2 Go to the top right corner of the screen. Click “Bluetooth On”, then “Bluetooth Settings”. Once your speaker pops up, click its name and switch on the connection.
+
 ### Step 10: Test the alert module (1 minute)
+
+10.1  Open a terminal and run the following commands to test the alert module:
+```
+cd robot_communication_ws
+source install/setup.bash
+ros2 run alert_pkg alert_node
+```
+
+10.2 Click the buttons, and you should hear beeping!
+
 ### Step 11: Test the dialogue module (1 minute)
 
-11.1 Run the following:
+11.1 Open a terminal and run the following commands to test the dialogue module:
 ```
 cd robot_communication_ws
 source install/setup.bash
