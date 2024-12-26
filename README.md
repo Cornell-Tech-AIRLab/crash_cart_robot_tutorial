@@ -4,7 +4,7 @@ Crash Cart Robot Tutorial
 
 This tutorial provides step-by-step instructions to build a low-cost cart robot with multimodal feedback capabilities using speech, drawer lights, and alerts to indicate the location of relevant supplies and task reminders.
 
-See the Tutorial on [[YouTube]](https://www.youtube.com/watch?v=EV-0HwNPJiY)
+See the Tutorial on [YouTube](https://www.youtube.com/watch?v=EV-0HwNPJiY).
 
 Taylor, A., Tanjim, T., Sack, M., Hirsch, M., Cheng, K., Ching, K., St. George, J., Roumen, T., Jung, M., Lee, H. (2025) “Rapidly Built Medical Crash Cart! Lessons Learned and Impacts on High-Stakes Team Collaboration in the Emergency Room.” In Proc. of the 20th Annual ACM/IEEE Conference on Human Robot Interaction (HRI).
 
