@@ -49,6 +49,57 @@ year = {2025}
 ### Step 6: Download Robot Operating System 2 (55 min)
 ### Step 7: Install necessary tools (6 min)
 ### Step 8: Test and edit light code for compatibility (25 minutes)
+
+8.1 Open a new terminal window and run the following to run the light node
+```
+source /opt/ros/humble/setup.bash
+colcon build --symlink-install
+cd robot_communication_ws
+source install/setup.bash
+ros2 run light_pkg light_node
+```
+
+8.2 Try pressing a couple of the buttons and watch the lights on the carts flash. You may have noticed that the buttons don’t light the correct LEDs. If this is the case, you must edit the code to be compatible with your cart.
+
+8.3 Go to your files, follow this file path, and open the py file: Home → robot_communication_ws → source → light_pkg → light_pkg → light_node.py
+
+8.4 Open a new terminal window and rerun the module by entering the following (quick tip, if you press the up arrow you can the following commands in your history and can enter them like that to make it easier):
+```
+source /opt/ros/humble/setup.bash
+colcon build --symlink-install
+cd robot_communication_ws
+source install/setup.bash
+ros2 run light_pkg light_node
+```
+
+8.5 Once you’ve run the program, click the first button and watch to see which lights flash. If only one pair lights up, the program is trying to light LEDs we’ve cut off.
+
+8.6 Go to the portion of the light_node code shown below. 
+
+<p align="center"> 
+<img src="./images/figure7.png" width="50%"> 
+<i>
+
+<b>Figure 7:</b> Code snippet for modifying RGB values, LED colors, and corresponding LED lights. 
+
+8.7 Each four-line section of code corresponds to one button on the pop-up, one drawer that needs to be lit. Editing the number in the square brackets for the first section will change which LED is lit when the first button is pressed. Increasing the number will make the lit LED further from the end with the wires, decreasing it will make the LED closer to that end.
+
+8.8 Edit the number, press the save button at the top of the code’s window, press Control C in the terminal window to stop the program, open a new window, then rerun the node:
+```
+source /opt/ros/humble/setup.bash
+cd robot_communication_ws
+source install/setup.bash
+ros2 run light_pkg light_node
+```
+
+8.9 Look to see which LEDs light up now. Is it still too far one way? Or maybe now too far the other way? Repeat step h until each button properly lights a different drawer from both sides with the final two buttons flashing all the lights. This should take around 15 minutes.
+
+<p align="center"> 
+<img src="./images/figure8.png" width="50%"> 
+<i>
+
+<b>Figure 8:</b> LED lights installed across the mobile crash cart.
+
 ### Step 9: Connect the Bluetooth speaker (1 minute)
 
 9.1 Make sure your speaker is turned on and in range.
