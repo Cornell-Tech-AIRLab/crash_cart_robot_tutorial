@@ -59,6 +59,8 @@ year = {2025}
 <i>
 
 <b>Figure 1:</b> Set up a micro-SD card for Raspberry PI 4 using Imager application.
+</i> 
+</p>
 
 1.5 Click “NEXT” and wait around eight minutes for the imager to write successfully.
 
@@ -79,6 +81,8 @@ If struggling to align the LEDs with the drawers, gently pinch the LEDs as shown
 <i>
 
 <b>Figure 2:</b> Attach LED lights to the cart.
+</i> 
+</p>
 
 2.3 Once attached to one side, curve the strip under the cart, run it along the bottom, and have it curve up to the other side.
 
@@ -89,6 +93,8 @@ If struggling to align the LEDs with the drawers, gently pinch the LEDs as shown
 <i>
 
 <b>Figure 3:</b> LED lights installed to ensure uniform lighting across the cart.
+</i> 
+</p>
 
 2.5 Once you’ve lined up the LEDs, cut the excess on the white line with the copper strips.
 
@@ -118,6 +124,8 @@ If struggling to align the LEDs with the drawers, gently pinch the LEDs as shown
 <i>
 
 <b>Figure 4:</b> Electronic wiring connections for Raspberry Pi 4 with monitor, keyboard, mouse, and LED using appropriate wires and ports.
+</i> 
+</p>
 
 ### Step 4: Boot the Raspberry Pi (12 minutes)
 
@@ -148,6 +156,8 @@ If struggling to align the LEDs with the drawers, gently pinch the LEDs as shown
 <i>
 
 <b>Figure 5:</b> Downloading necessary files from the Github repository.
+</i> 
+</p>
 
 5.3 Click the “Download ZIP” button and wait for it to download.
 
@@ -158,6 +168,8 @@ If struggling to align the LEDs with the drawers, gently pinch the LEDs as shown
 <i>
 
 <b>Figure 6:</b> File extraction of the GitHub Repository.
+</i> 
+</p>
 
 5.5 Open the resulting folder and right-click the robot_communication_ws zip file and press “Extract Here.”
 
@@ -170,6 +182,8 @@ If struggling to align the LEDs with the drawers, gently pinch the LEDs as shown
 <i>
 
 <b>Figure 7:</b> Bash file setup.
+</i> 
+</p>
 
 ### Step 6: Download Robot Operating System 2 (55 min)
 
@@ -250,6 +264,8 @@ ros2 run light_pkg light_node
 <i>
 
 <b>Figure 8:</b> Code snippet for modifying RGB values, LED colors, and corresponding LED lights. 
+</i> 
+</p>
 
 8.7 Each four-line section of code corresponds to one button on the pop-up, one drawer that needs to be lit. Editing the number in the square brackets for the first section will change which LED is lit when the first button is pressed. Increasing the number will make the lit LED further from the end with the wires, decreasing it will make the LED closer to that end.
 
@@ -268,6 +284,8 @@ ros2 run light_pkg light_node
 <i>
 
 <b>Figure 9:</b> LED lights installed across the mobile crash cart.
+</i> 
+</p>
 
 ### Step 9: Connect the Bluetooth speaker (1 minute)
 
