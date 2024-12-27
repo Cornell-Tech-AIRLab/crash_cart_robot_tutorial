@@ -87,6 +87,7 @@ The battery pack is optional; two wall outlets serves as an alternative. A Linux
 
 <p align="center"> 
 <img src="./images/figure1.png" width="50%"> 
+
 <b>Figure 1:</b> Set up a micro-SD card for Raspberry PI 4 using Imager application.
 </p>
 
