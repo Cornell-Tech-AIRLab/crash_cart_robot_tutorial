@@ -4,6 +4,7 @@ Crash Cart Robot Tutorial
 
 <p align="center"> 
 <img src="./images/airlab_logo.png" width="50%"> 
+</p>
 
 This tutorial provides step-by-step instructions to build a low-cost cart robot with multimodal feedback capabilities using speech, drawer lights, and alerts to indicate the location of relevant supplies and task reminders.
 
@@ -15,11 +16,9 @@ Taylor, A., Tanjim, T, Cao, H., Lee, H. “Towards Collaborative Crash Cart Robo
 
 <p align="center"> 
 <img src="./images/crash_cart_setup.png" width="50%"> 
-<i>
 
 <b>Figure 1:</b> We built a series of teleoperated medical crash cart robots. Prototype 1 delivers supplies using a hoverboard circuit. Prototype 2 also delivers supplies, recommends supplies using drawer opening capabilities, and was deployed at a medical training event which revealed insights which led to the design of Prototype 3 that communicates recommendations and reminders using drawer lights, speech, and alerts.
 
-</i> 
 </p>
 
 ## System Requirements
