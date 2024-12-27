@@ -183,7 +183,7 @@ If struggling to align the LEDs with the drawers, gently pinch the LEDs as shown
 <b>5.2</b> Press the green “Code” dropdown button.
 
 <p align="center"> 
-<img src="./images/figure5_new.png" width="50%"> 
+<img src="./images/figure5.png" width="50%"> 
 </p>
 
 <p align="center"> 
