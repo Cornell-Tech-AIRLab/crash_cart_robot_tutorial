@@ -337,14 +337,14 @@ ros2 run alert_pkg alert_node
 
 ### Step 11: Test the dialogue module (1 minute)
 
-11.1 Open a terminal and run the following commands to test the dialogue module:
+<b>11.1</b> Open a terminal and run the following commands to test the dialogue module:
 ```
 cd robot_communication_ws
 source install/setup.bash
 ros2 run dialogue_pkg dialogue_node
 ```
 
-11.2 Click the buttons, and you should hear the robot’s dialogue.
+<b>11.2</b> Click the buttons, and you should hear the robot’s dialogue.
 
 ## Congratulations! You are now the proud owner of a robotic crash cart.
 
@@ -364,6 +364,6 @@ Fork the repo and create a pull request to improve the tutorial. You can also si
 
 If you have issues or questions, don't hesitate to contact:
 
-Anaiya Z. Badi (anaiya.badi@gmail.com)
-Tauhid Tanjim (tt485@cornell.edu)
-Angelique M. Taylor (amt@cornell.edu)
+- Anaiya Z. Badi (anaiya.badi@gmail.com)
+- Tauhid Tanjim (tt485@cornell.edu)
+- Angelique M. Taylor (amt@cornell.edu)
