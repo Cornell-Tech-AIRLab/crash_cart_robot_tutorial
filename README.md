@@ -22,7 +22,7 @@ Taylor, A., Tanjim, T, Cao, H., Lee, H. “Towards Collaborative Crash Cart Robo
 </p>
 
 ## System Requirements
-- Ubuntu Version???
+- Ubuntu 22.04.4 LTS (64-BIT)
 - Python Version???
 - Robot Operating System 2 (Distribution ???)
 
@@ -87,9 +87,7 @@ The battery pack is optional; two wall outlets serves as an alternative. A Linux
 
 <p align="center"> 
 <img src="./images/figure1.png" width="50%"> 
-
 <b>Figure 1:</b> Set up a micro-SD card for Raspberry PI 4 using Imager application.
-
 </p>
 
 <b>1.5</b> Click “NEXT” and wait around eight minutes for the imager to write successfully.
