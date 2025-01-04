@@ -366,4 +366,4 @@ If you have issues or questions, don't hesitate to contact:
 
 - Anaiya Z. Badi (anaiya.badi@gmail.com)
 - Tauhid Tanjim (tt485@cornell.edu)
-- Angelique M. Taylor (amt@cornell.edu)
+- Angelique M. Taylor (amt298@cornell.edu)
