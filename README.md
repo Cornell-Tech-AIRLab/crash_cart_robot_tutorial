@@ -54,6 +54,9 @@ The parts list includes required supplies, price, quantity, and a link to a reco
 
 The battery pack is optional; two wall outlets serves as an alternative. A Linux laptop computer is required.
 
+<p align="center"> 
+<b>Table 1:</b> Equipment List
+</p>
 
 | Item                                     | Price         | Quantity      | URL           |
 | ---------------------------------------- | ------------- | ------------- | ------------- |
@@ -92,7 +95,7 @@ The battery pack is optional; two wall outlets serves as an alternative. A Linux
 </p>
 
 <p align="center"> 
-<b>Figure 1:</b> Set up a micro-SD card for Raspberry PI 4 using Imager application.
+<b>Figure 2:</b> Set up a micro-SD card for Raspberry PI 4 using Imager application.
 </p>
 
 <b>1.5</b> Click “NEXT” and wait around eight minutes for the imager to write successfully.
