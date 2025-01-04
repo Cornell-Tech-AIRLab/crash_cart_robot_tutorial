@@ -2,6 +2,8 @@
 
 Crash Cart Robot Tutorial 
 
+Healthcare workers face many challenges during bedside care that impede team collaboration and often lead to poor patient outcomes. Robots have the potential to support medical decision-making, help identify medical errors, and deliver supplies to clinical teams in a timely manner. However, there is a lack of knowledge about using robots to support clinical team dynamics despite being used in surgery, healthcare operations, and other applications. This version of the crash cart is a "Wizard of Oz" robot, allowing us to explore the robot's interactions with healthcare workers without needing to spend the time and resources to program it to run autonomously.
+
 <p align="center"> 
 <img src="./images/airlab_logo.png" width="50%"> 
 </p>
@@ -23,8 +25,8 @@ Taylor, A., Tanjim, T, Cao, H., Lee, H. “Towards Collaborative Crash Cart Robo
 
 ## System Requirements
 - Ubuntu 22.04.4 LTS (64-BIT)
-- Python Version???
-- Robot Operating System 2 (Distribution ???)
+- Python 3
+- Robot Operating System 2 (Humble Distribution)
 
 Contents: 
 - [Introduction](#introduction) 
