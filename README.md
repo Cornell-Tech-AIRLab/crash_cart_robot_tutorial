@@ -54,7 +54,6 @@ The parts list includes required supplies, price, quantity, and a link to a reco
 
 The battery pack is optional; two wall outlets serves as an alternative. A Linux laptop computer is required.
 
-<p align="center"> 
 <b>Table 1:</b> Equipment List
 
 | Item                                     | Price         | Quantity      | URL           |
@@ -72,7 +71,7 @@ The battery pack is optional; two wall outlets serves as an alternative. A Linux
 | SD to USB adapter                        | $5.99         | 1             | [Amazon](https://www.amazon.com/Reader-Laptop-Windows-Chrome-RS-MMC/dp/B0C81FW814/ref=asc_df_B07MK99R14/?tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=5558208569019396501&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004331&hvtargid=pla-2281435178778&mcid=b200ad31022538c49f855bc14aa1af93&hvocijid=5558208569019396501-B07MK99R14-&hvexpln=73&gad_source=1&th=1)  |
 | Portable Power Station (optional)        | $249.99       | 1             | [Amazon](https://www.amazon.com/Anker-Portable-Generator-Traveling-Emergencies/dp/B0D62GMQ3F/ref=sr_1_1?crid=3OQSZ4QJ8UH6U&dib=eyJ2IjoiMSJ9.tGQ-J5haxYTAwL1awybF7r5b77QzjHUV5L4DpdkEKx9327o1Ri0o_fAo0fHeau_H_mCO-QfKyUxtNJJXKOpWLSvHvortJRIqT5scaOl5mlmgb0ho0jWMixqvxFlyN4EEjfWuSRUjDf8qWkElX4z0CoGpGwvA4_LAjuRklcHMRCFmmos63CCWAYLKFk4nqihG.nzRxaNY_JeZWl6dEtIdO0v09trXHNOOJdBqo8NcMjJU&dib_tag=se&keywords=anker+solux+c300x&qid=1734398531&sr=8-1)  |
 | Scissors       | $4.24       | 1             | [Amazon](https://www.amazon.com/Scotch-1448-Precision-Scissor-8-Inches/dp/B001BKHHGS/ref=sr_1_5?crid=3V6SGIOQY7GU7&dib=eyJ2IjoiMSJ9.AjnComGyJnnJDRxxKFsxrNZHsMajCroUmd9qmX9nwIOeL8NUWILLhf7m7GxhVHXJnSHxpMeviTaEr2LnuPAxmw40hzl5Rdf_Owijw15Fy58SLyvQSLHSMel_WyEC4AQZjH3Wt3JMTi1D037q23B5Cp1LPqoWigxGkm8_nxsQEbk3pv5QtdriHM7wb_MSsVRWeJwYsnVV2mQhtSZmZ_oRn224Hzd6j-kkbbp2dRziO-LeHCFQFuRcWnOHuxAPROuZ2WCSZpSRmqLKDERhPR45x7LS81Nw6ncDYR1A48UJBUrHKtb-hRQ5I1Oo6R-ewswABJY6XRysK8yfr27H418VAKIqyyR3SABpj_s_BKoh9HcsGG-t7I9cEZCXVo_tpq80HNKd30ano7Ue8xTeSEQm9efUqQki64hn65fJhfFTHbI2lMVCrg_3kpbujX3iycB5.C85nwNh6hfaxJT_z_jb20ZgRAuvMlOfdWmmTRzfnOW0&dib_tag=se&keywords=scissors&qid=1735255473&sprefix=scissors%2Caps%2C189&sr=8-5)  |
-</p>
+
 
 ## Medical Crash Cart Robot Tutorial Steps
 
